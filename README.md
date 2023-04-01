@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm galfar</h1>
 <h3 align="center">A Python developer from Czech Republic</h3>
 
-- 🔭 I’m currently working on [ReControl](https://github.com/wedevelopcoolstuff/ReControl)
+- 🔭 I’m currently working on [CIRA](https://galfar.net/cira)
 
 - 🌱 I’m currently learning **C, C++, electron**
 
