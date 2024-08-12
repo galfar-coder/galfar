@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **how to be smart**
 
-support me on **ko-fi**)!
+support me on **ko-fi**!
+<p> </p>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B511QU0Z)
 
 <h3 align="left">Connect with me:</h3>
