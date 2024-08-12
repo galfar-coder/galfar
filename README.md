@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm galfar</h1>
 <h3 align="center">A Game developer from Czech Republic</h3>
 
-- 🔭 I’m currently working on [CIRA](https://galfar.net/cira)
+- 🔭 I’m currently working on **few projects**
 
-- 🌱 I’m currently learning **C, C++, electron**
+- 🌱 I’m currently learning **how to be smart**
+
+support me on **ko-fi**)!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B511QU0Z)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/galfar#5394" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="galfar#5394" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/921808259688583258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="galfar#5394" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
